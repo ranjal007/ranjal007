@@ -18,7 +18,7 @@ I'm a Second year student pursuing Bachelors's in Information Technology 🎓 fr
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 I am also a frontend developer.👨🏻‍💻
-👨🏻‍ I'm currently into Androd Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+👨🏻‍ I'm currently into Androd Development and Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 </br>
 
 <hr>
