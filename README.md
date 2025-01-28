@@ -31,7 +31,6 @@ I am also a frontend developer.👨🏻‍💻
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: It took less code to send a man to space than to run a smartphone!
 - 📫 &nbsp; How to reach me: ranjalomer12@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ranjal007/my_resume/raw/master/Resume%20.pdf).
 </br>
 <hr>
 
